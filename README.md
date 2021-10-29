@@ -1,4 +1,4 @@
-### Hi I'm Devan Lian Romadhoni 👋
+### Hi I'm Lian 👋
 
 
 - 🔭 I’m currently working stay at home ...
