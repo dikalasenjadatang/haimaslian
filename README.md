@@ -8,6 +8,27 @@
 - 💬 Ask me about Web/Mobile development or Penetration Tester ...
 - 📫 How to reach me: snowdenedwr@gmail.com ...
 - 😄 Pronouns: He/His ...
+
+### My Skills 
+
+- HTML
+- CSS 
+- PHP
+- Jquery
+- ReactJS
+- NodeJS
+- Python
+
+### CMS OR FRAMEWORKS 
+
+- Bootstrap
+- Wordpress
+- Laravel
+- Codeigniter
+- Tailwind
+- Materialize CSS
+
+
 <p align="center">
 </p>
 <p align="center">
